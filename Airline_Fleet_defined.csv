@@ -1,0 +1,90 @@
+Aircraft_Type,In_service,Aircraft_Family,2017,2018,2019,Airline
+Airbus A319-100,88,Airbus A319,TRUE,TRUE,TRUE,United
+Airbus A320-200,99,Airbus A320,TRUE,TRUE,TRUE,United
+Boeing 737 MAX 9,37,Boeing 737,FALSE,TRUE,FALSE,United
+Boeing 737-700,40,Boeing 737,TRUE,TRUE,TRUE,United
+Boeing 737-800,141,Boeing 737,TRUE,TRUE,TRUE,United
+Boeing 737-900,12,Boeing 737,TRUE,TRUE,TRUE,United
+Boeing 737-900ER,136,Boeing 737,TRUE,TRUE,TRUE,United
+Boeing 747-400,44,Boeing 747,TRUE,FALSE,FALSE,United
+Boeing 757-200,40,Boeing 757,TRUE,TRUE,TRUE,United
+Boeing 757-300,21,Boeing 757,TRUE,TRUE,TRUE,United
+Boeing 767-300,37,Boeing 767,TRUE,TRUE,TRUE,United
+Boeing 767-400,16,Boeing 767,TRUE,TRUE,TRUE,United
+Boeing 777-200,74,Boeing 777,TRUE,TRUE,TRUE,United
+Boeing 777-300ER,22,Boeing 777,TRUE,TRUE,TRUE,United
+Boeing 787-10 Dreamliner,14,Boeing 787 Dreamliner,TRUE,TRUE,TRUE,United
+Boeing 787-8 Dreamliner,12,Boeing 787 Dreamliner,TRUE,TRUE,TRUE,United
+Boeing 787-9 Dreamliner,38,Boeing 787 Dreamliner,TRUE,TRUE,TRUE,United
+Bombardier CRJ-200,179,Bombardier CRJ-200,TRUE,TRUE,TRUE,United
+Bombardier CRJ-700,77,Bombardier CRJ-700,TRUE,TRUE,TRUE,United
+Embraer ERJ-145,73,Embraer ERJ-140,TRUE,TRUE,TRUE,United
+Embraer ERJ-170,38,Embraer ERJ-170,TRUE,TRUE,TRUE,United
+Embraer ERJ-175,198,Embraer ERJ-170,TRUE,TRUE,TRUE,United
+Airbus A319-100,133,Airbus A319,TRUE,TRUE,TRUE,American_Airlines
+Airbus A320-200,48,Airbus A320,TRUE,TRUE,TRUE,American_Airlines
+Airbus A321-200,218,Airbus A321,TRUE,TRUE,TRUE,American_Airlines
+Airbus A321neo,62,Airbus A321,TRUE,TRUE,TRUE,American_Airlines
+Airbus A330-200,15,Airbus A330,TRUE,TRUE,TRUE,American_Airlines
+Airbus A330-300,9,Airbus A330,TRUE,TRUE,TRUE,American_Airlines
+Boeing 737 MAX 8,42,Boeing 737,FALSE,TRUE,FALSE,American_Airlines
+Boeing 737-800,345,Boeing 737,TRUE,TRUE,TRUE,American_Airlines
+Boeing 757-200,177,Boeing 757,TRUE,TRUE,TRUE,American_Airlines
+Boeing 767-300ER,67,Boeing 767,TRUE,TRUE,TRUE,American_Airlines
+Boeing 777-200ER,47,Boeing 777,TRUE,TRUE,TRUE,American_Airlines
+Boeing 777-300ER,20,Boeing 777,TRUE,TRUE,TRUE,American_Airlines
+Boeing 787 Dreamliner,51,Boeing 787 Dreamliner,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-190,20,Embraer ERJ-190,TRUE,TRUE,TRUE,American_Airlines
+McDonnell Douglas MD-82,270,McDonnell Douglas MD-80,TRUE,TRUE,TRUE,American_Airlines
+McDonnell Douglas MD-83,108,McDonnell Douglas MD-80,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-100 Series,130,Bombardier CRJ-100,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-200,130,Bombardier CRJ-200,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-700,151,Bombardier CRJ-700,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-900,128,Bombardier CRJ-900,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-135,40,Embraer ERJ-135,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-140,59,Embraer ERJ-140,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-145,81,Embraer ERJ-140,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-170,14,Embraer ERJ-170,TRUE,TRUE,TRUE,American_Airlines
+Embraer ERJ-175,206,Embraer ERJ-170,TRUE,TRUE,TRUE,American_Airlines
+De Havilland Canada DHC-8-100,77,De Havilland Canada DHC-8 Dash 8,TRUE,FALSE,FALSE,American_Airlines
+De Havilland Canada DHC-8-300,12,De Havilland Canada DHC-8 Dash 8,TRUE,TRUE,FALSE,American_Airlines
+Embraer ERJ-145,60,Embraer ERJ-140,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-700,61,Bombardier CRJ-700,TRUE,TRUE,TRUE,American_Airlines
+Bombardier CRJ-900,73,Bombardier CRJ-900,TRUE,TRUE,TRUE,American_Airlines
+Airbus A220-100,45,Airbus A220,TRUE,TRUE,TRUE,Delta
+Airbus A220-300,12,Airbus A220,TRUE,TRUE,TRUE,Delta
+Airbus A319-100,57,Airbus A319,TRUE,TRUE,TRUE,Delta
+Airbus A320-200,61,Airbus A320,TRUE,TRUE,TRUE,Delta
+Airbus A321-200,127,Airbus A321,TRUE,TRUE,TRUE,Delta
+Airbus A321neo,10,Airbus A321,TRUE,TRUE,TRUE,Delta
+Airbus A330-200,11,Airbus A330,TRUE,TRUE,TRUE,Delta
+Airbus A330-300,31,Airbus A330,TRUE,TRUE,TRUE,Delta
+Airbus A330-900,18,Airbus A330,TRUE,TRUE,TRUE,Delta
+Airbus A350-900,24,Airbus A350 XWB,TRUE,TRUE,TRUE,Delta
+Boeing 717-200,65,Boeing 717,TRUE,TRUE,TRUE,Delta
+Boeing 737-200,75,Boeing 737,TRUE,TRUE,TRUE,Delta
+Boeing 737-300,31,Boeing 737,TRUE,TRUE,TRUE,Delta
+Boeing 737-700,10,Boeing 737,TRUE,TRUE,TRUE,Delta
+Boeing 737-800,77,Boeing 737,TRUE,TRUE,TRUE,Delta
+Boeing 737-900ER,155,Boeing 737,TRUE,TRUE,TRUE,Delta
+Boeing 747-400,16,Boeing 747,TRUE,TRUE,TRUE,Delta
+Boeing 757-200,111,Boeing 757,TRUE,TRUE,TRUE,Delta
+Boeing 757-300,16,Boeing 757,TRUE,TRUE,TRUE,Delta
+Boeing 767-300,45,Boeing 767,TRUE,TRUE,TRUE,Delta
+Boeing 767-400ER,21,Boeing 767,TRUE,TRUE,TRUE,Delta
+Boeing 777-200,18,Boeing 777,TRUE,TRUE,TRUE,Delta
+McDonnell Douglas MD-88,120,McDonnell Douglas MD-80,TRUE,TRUE,TRUE,Delta
+McDonnell Douglas MD-90,78,McDonnell Douglas MD-90,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-200,73,Bombardier CRJ-200,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-700,19,Bombardier CRJ-700,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-900,163,Bombardier CRJ-900,TRUE,TRUE,TRUE,Delta
+Embraer ERJ-170,17,Embraer ERJ-170,TRUE,TRUE,TRUE,Delta
+Embraer ERJ-175,126,Embraer ERJ-170,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-100 Series,45,Bombardier CRJ-100,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-200,45,Bombardier CRJ-200,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-700,14,Bombardier CRJ-700,TRUE,TRUE,TRUE,Delta
+Bombardier CRJ-900,124,Bombardier CRJ-900,TRUE,TRUE,TRUE,Delta
+Boeing 737 MAX 8,85,Boeing 737,TRUE,TRUE,FALSE,Southwest
+Boeing 737-300,195,Boeing 737,TRUE,FALSE,FALSE,Southwest
+Boeing 737-700,434,Boeing 737,TRUE,TRUE,TRUE,Southwest
+Boeing 737-800,207,Boeing 737,TRUE,TRUE,TRUE,Southwest
